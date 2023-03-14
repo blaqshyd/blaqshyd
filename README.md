@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm blaqshyd</h1>
 <h3 align="center">A mobile developer from Lagos</h3>
 
-<p align="center"; padding="10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blaqshyd" alt="blaqshyd" /></a> </p>
+<p align="center"; padding="10px"> <a href="https://github.com/blaqshyd/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blaqshyd" alt="blaqshyd" /></a> </p>
 
 - 🔭 I’m currently working on [Market Place](https://github.com/blaqshyd/market_place)
 
