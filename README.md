@@ -1,6 +1,6 @@
 [![@blaqshyd's Holopin board](https://holopin.me/blaqshyd)](https://holopin.io/@blaqshyd)
 <h1 align="center">Hi 👋, I'm blaqshyd</h1>
-<h3 align="center">A mobile developer from Lagos</h3>
+<h3 align="center">Mobile Developer</h3>
 
 <p align="center"; padding="10px"> <a href="https://github.com/blaqshyd/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blaqshyd" alt="blaqshyd" /></a> </p>
 
