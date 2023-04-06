@@ -4,7 +4,7 @@
 
 <p align="center"; padding="10px"> <a href="https://github.com/blaqshyd/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blaqshyd" alt="blaqshyd" /></a> </p>
 
-- 🔭 I’m currently working on [Market Place](https://github.com/blaqshyd/market_place)
+- 🔭 I’m currently working on [Market Place](https://github.com/blaqshyd/market_place), [MediDoc](https://github.com/blaqshyd/doctor_booking)
 
 - 🌱 I’m currently learning **Flutter, NodeJs, MongoDb**
 
