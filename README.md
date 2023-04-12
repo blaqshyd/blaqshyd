@@ -6,11 +6,9 @@
 
 - 🔭 I’m currently working on [Market Place](https://github.com/blaqshyd/market_place), [MediDoc](https://github.com/blaqshyd/doctor_booking)
 
-- 🌱 I’m currently learning **Flutter, NodeJs, MongoDb**
+- 🌱 I’m currently learning **State Mgt and Backend Integration**
 
 - 👯 I’m looking to collaborate on **Mobile App Development**
-
-- 🤝 I’m looking for help with **State Mgt and Backend Integration**
 
 - 💬 Ask me about **Flutter, Dart, Web, python**
 
