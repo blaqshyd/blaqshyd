@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/blaqkoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blaqkoda" height="30" width="40" /></a>
+<a href="https://twitter.com/blaqshyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blaqkoda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/blaqshyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blaqshyd" height="30" width="40" /></a>
 </p>
 
@@ -27,8 +27,8 @@
 
  [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blaqshyd)](https://github.com/blaqshyd)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blaqshyd&show_icons=true&locale=en&layout=compact" alt="blaqshyd" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blaqshyd&show_icons=true&locale=en&layout=compact" alt="blaqshyd" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blaqshyd&show_icons=true&locale=en" alt="blaqshyd" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=blaqshyd&show_icons=true&locale=en" alt="blaqshyd" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blaqshyd&" alt="blaqshyd" /></p>
