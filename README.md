@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **Mobile App Development**
 
-- 💬 Ask me about **Flutter, Dart, Firebase **
+- 💬 Ask me about **Flutter && Dart**
 
 - 📫 How to reach me **dahblaqshyd@gmail.com**
 
