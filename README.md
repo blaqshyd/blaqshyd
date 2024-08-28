@@ -1,4 +1,5 @@
-[![@blaqshyd's Holopin board](https://holopin.me/blaqshyd)](https://holopin.io/@blaqshyd)
+
+<!-- [![@blaqshyd's Holopin board](https://holopin.me/blaqshyd)](https://holopin.io/@blaqshyd)  -->
 
 <h1 align="center">Hi 👋, I'm blaqshyd</h1>
 
