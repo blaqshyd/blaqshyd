@@ -8,7 +8,7 @@
 <p align="center">
   👯 I’m looking to collaborate on OSS
 </br>
-  🏫 Currently learning Solidity
+  🏫 Currently learning Solidity, Golang and Rust
 </br>
   💬 Ask me about Flutter && Dart
 </br>
